@@ -1,70 +1,144 @@
-# Getting Started with Create React App
+# ✦ Shriya Devadiga — Personal Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### AI & ML Engineering Student · React Developer · Builder
 
-## Available Scripts
+Welcome to my personal portfolio.
 
-In the project directory, you can run:
+This portfolio showcases my journey as a **Bachelor of Engineering student in Artificial Intelligence & Machine Learning**, along with the projects I've built while learning software development, AI, and modern web technologies.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🌐 Live Portfolio
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Visit my portfolio:**
+https://personal-portfolio-b57v3zq6q-devadigashriya24-max.vercel.app/
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 👩‍💻 About Me
 
-### `npm run build`
+I'm **Shriya Devadiga**, a 3rd-year Artificial Intelligence & Machine Learning engineering student interested in building practical software solutions.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+I enjoy turning ideas into working projects and continuously improving my skills through:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* AI & Machine Learning
+* React development
+* Python
+* JavaScript
+* Full-stack project development
+* Hackathons and real-world problem solving
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🚀 Featured Projects
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 🔥 ThermalGuard AI
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+AI-powered detection and classification of industrial fires and persistent thermal sources using satellite data.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**Tech:** React · Python · Flask · NASA FIRMS · OpenStreetMap · Leaflet
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**GitHub:**
+https://github.com/devadigashriya24-max/Thermalguard-ai
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### 🧠 CONVEXA
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+An intelligent project communication assistant that converts unstructured communication into tasks, follow-ups, decisions, and risks.
 
-### Code Splitting
+**Tech:** React · Python · Flask · NLP
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**GitHub:**
+https://github.com/devadigashriya24-max/CONVEXA
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### 🎨 One Piece Web Page
 
-### Making a Progressive Web App
+A React-based themed web page created while learning component-based frontend development.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+**Tech:** React · JavaScript · HTML · CSS
 
-### Advanced Configuration
+**GitHub:**
+https://github.com/devadigashriya24-max/one-piece-webpage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+### ✊ Rock Paper Scissors
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+An interactive browser game built to practice React state management and user interaction.
 
-### `npm run build` fails to minify
+**Tech:** React · JavaScript · CSS
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**GitHub:**
+https://github.com/devadigashriya24-max/rock-paper-scissors
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Python
+* JavaScript
+* HTML
+* CSS
+* SQL
+
+### Frameworks & Libraries
+
+* React
+* Flask
+* Leaflet
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Vercel
+
+### Currently Exploring
+
+* Artificial Intelligence
+* Machine Learning
+* Natural Language Processing
+* Full-stack development
+* Data-driven applications
+
+---
+
+## 🎯 What I Like Building
+
+I enjoy working on projects that combine **technology with real-world problems**.
+
+My current focus is on building applications that are:
+
+* Practical
+* User-focused
+* Data-driven
+* Interactive
+* Easy to understand and use
+
+---
+
+## 📈 My Learning Journey
+
+I'm continuously learning by building projects rather than only studying concepts.
+
+From small React applications to AI-powered systems, each project helps me understand something new and improve my development skills.
+
+---
+
+## 📫 Connect With Me
+
+**GitHub:**
+https://github.com/devadigashriya24-max
+
+**Portfolio:**
+https://personal-portfolio-b57v3zq6q-devadigashriya24-max.vercel.app/
+
+---
+
+### ✦ Build. Learn. Improve. Repeat.
